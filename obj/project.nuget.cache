@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3zRWM7WaMAZot0vHMLCZOyhKr08pf0clxvQaekR4V2N2TryCtVRj2zreYK3o/vnuUDp6nZxmVh73HjLT8EkAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serhii\\Desktop\\bitroot\\19\\LinqLesson\\LinqLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serhii\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
